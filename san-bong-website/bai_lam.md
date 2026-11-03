@@ -174,8 +174,8 @@ Property :
 
 | STT | Tab DevTools phát hiện lỗi | Tên file hoặc thông báo lỗi | Cách khắc phục |
 | --- | --- | --- | --- |
-| 1 | Network  | sai tên file hoặc đường dẫn sai | sửa lại đường dẫn trong vs code |
-| 2 | Console | sai tên file hoặc đường dẫn sai | sửa lại đường dẫn trong vs code |
+| 1 | Network  | logo không hiển thị | sửa lại đường dẫn trong vs code |
+| 2 | Console | bảng không hiển thị | sửa lại đường dẫn trong vs code |
 
 > Ảnh chụp màn hình lưu trong thư mục `evidence/` (network.png, console.png).
 
